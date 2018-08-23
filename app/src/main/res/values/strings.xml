@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tez UPI Test</string>
+    <string name="tez">Pay with Tez</string>
+    <string name="phonepe">Pay with PhonePe</string>
+    <string name="bhim">Pay with BHIM</string>
+
+</resources>
